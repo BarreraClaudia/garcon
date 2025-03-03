@@ -1,6 +1,6 @@
 # Garcon, Inc.
 
-A [page for a local insurance agency](https://www.garcon-inc.com/), listing what they have to offer.
+A page for an [insurance agency](https://www.garcon-inc.com/), listing what they have to offer.
 
 ![Screenshot](/images/screenshot-for-readme.png)
 
